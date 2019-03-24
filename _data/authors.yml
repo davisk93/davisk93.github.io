@@ -23,12 +23,12 @@ author1:
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
     #twitter:         kladavis
-    github:          davisk93
+github:          davisk93
     # download:        <url>
-     email:           davisk93@msu.edu
+email:           davisk93@msu.edu
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
-     google:          https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao
+google:          https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
