@@ -36,14 +36,16 @@ keywords:              [Kayla Davis, quantitative ecology]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/logo.png
+# logo:                  /assets/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
- # name:                Kayla Davis
- # email:               davisk93@msu.edu
+name:                Kayla Davis
+email:               davisk93@msu.edu
+github:              davisk93
+google:              https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao
   # Used by `jekyll-seo-tag`:
-  # twitter:             kladavis
+#twitter:             kladavis
 
 # Add links to the sidebar.
 menu:
@@ -69,8 +71,8 @@ copyright:             © Kayla Davis 2019 - All rights reserved.
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
-paginate_path:         /page-:num/
+#paginate:              5
+#paginate_path:         /page-:num/
 
 
 # Customizaton
