@@ -43,14 +43,14 @@ author:
 name:                Kayla Davis
 email:               davisk93@msu.edu
 github:              davisk93
-google:              https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao
+Google:              https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao
   # Used by `jekyll-seo-tag`:
 #twitter:             kladavis
 
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /About/
+    url:               /about.md/
   - title:             Publications
     url:               /Publications/
   - title:             CV
