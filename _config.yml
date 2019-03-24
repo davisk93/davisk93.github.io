@@ -49,8 +49,6 @@ Google:              https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=e
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /about.md/
   - title:             Publications
     url:               /Publications/
   - title:             CV
