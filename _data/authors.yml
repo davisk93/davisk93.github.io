@@ -22,7 +22,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:         kladavis
+    #twitter:         kladavis
     github:          davisk93
     # download:        <url>
      email:           davisk93@msu.edu
