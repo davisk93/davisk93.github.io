@@ -33,7 +33,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Research Profile
+  <font size = "+1">Research Profile</font>
 
 # A list of keywords for your blog
 keywords:              [Kayla Davis, quantitative ecology]
@@ -48,15 +48,15 @@ author:
 name:                Kayla Davis
 email:               davisk93@msu.edu
 github:              davisk93
-google:              "https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao"
+google:              https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao
   # Used by `jekyll-seo-tag`:
 twitter:             kladavis
 
 # Add links to the sidebar.
 menu:
-  - title:             Publications
+  - title:             <font size = "+2">Publications</font>
     url:               /Publications/
-  - title:             CV
+  - title:             <font size = "+2">CV</font>
     url:               /CV/
 
 # Add links to the footer.
