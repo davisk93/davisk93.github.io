@@ -2,6 +2,15 @@
 layout: page
 title: Publications
 ---
+
+$(document).ready(function() {
+  $('.template-article img').each(function() {
+      var currentImage = $(this);
+      currentImage.wrap("<a class='image-link' href='" + currentImage.attr("src") + "'</a>");
+  });
+  $('.image-link').magnificPopup({type:'image'});  
+});
+
 <strong><h2>In Review</h2></strong>
   <div style="background-color: #EDEDED; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px;">
   <p><a href="/assets/img/staging_color.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/assets/img/staging_color.png" width="200"/></a>  
