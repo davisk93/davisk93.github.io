@@ -48,7 +48,7 @@ author:
 name:                Kayla Davis
 email:               davisk93@msu.edu
 github:              davisk93
-google:              https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao
+google:              <a href="https://scholar.google.com/citations?user=enD1yfcAAAAJ&hl=en&oi=ao"><i class="fab fa-google" style="color:white"></i></a>
   # Used by `jekyll-seo-tag`:
 twitter:             kladavis
 
