@@ -280,7 +280,7 @@ remote_theme: qwtel/hydejack@v8.4.0
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
- google-site-verification=n1jkayjCEEJEOdXr--Q5xOSTkGzyC6BZcUSdsJzlj4Y
+ google_site_verification: n1jkayjCEEJEOdXr--Q5xOSTkGzyC6BZcUSdsJzlj4Y
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
