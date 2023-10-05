@@ -24,7 +24,7 @@ title:                Kayla Davis
 # Favicon source 
 favicon:
   source: favicon.ico
-  path:   assets/img/icons
+  path:   /assets/img/icons
   
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
