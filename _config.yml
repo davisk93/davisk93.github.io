@@ -22,9 +22,9 @@ lang:  en
 title:                Kayla Davis
 
 # Favicon source 
-favicon:
+favicon: /assets/img/icons/favicon.png
   source: favicon.ico
-  path:   /assets/img/icons
+  path:   /assets/img/icons/favicon.png
   
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -41,7 +41,7 @@ keywords:              [Kayla Davis, quantitative ecology]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-# logo:               /assets/img/logo.png
+logo:               /assets/img/icons/favicon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
