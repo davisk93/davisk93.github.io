@@ -24,8 +24,8 @@ title:                Kayla Davis
 # Favicon source 
 favicon: /assets/img/icons/favicon.ico
 apple_touch_icon: /assets/img/icons/icon-192x192.png
-  source: /assets/img/icons/favicon.ico
-  path:   /assets/img/icons/favicon.ico
+  # source: /assets/img/icons/favicon.ico
+  # path:   /assets/img/icons/favicon.ico
   
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
